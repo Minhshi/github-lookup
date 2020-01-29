@@ -1,0 +1,7 @@
+{
+  "prettier.arrowParens": "always",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "typescript.preferences.quoteStyle": "single"
+}
