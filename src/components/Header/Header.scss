@@ -1,0 +1,26 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  width: 90%;
+  margin: 2rem auto;
+
+  .logo {
+    img {
+      height: 2rem;
+      width: 2rem;
+    }
+  }
+
+  .links {
+    margin-left: auto;
+
+    ul {
+      display: flex;
+
+      li {
+        list-style-type: none;
+        margin-left: 0.8rem;
+      }
+    }
+  }
+}
